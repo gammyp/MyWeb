@@ -1,0 +1,7 @@
+div.active {
+    background-color: pink;
+}
+
+body {
+    background-image: url("src/img/bg.jpg");
+}
